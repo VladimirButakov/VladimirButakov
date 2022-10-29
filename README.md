@@ -38,5 +38,5 @@
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" class="rounded mr-3" width="64" height="64" alt="javascript">
 </a>
 
-![Snake animation](https://github.com/VladimirButakov/VladimirButakov/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/VladimirButakov/VladimirButakov/blob/output/github-snake.svg#gh-dark-mode-only)
 
