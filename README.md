@@ -30,6 +30,7 @@
 </a>
 <a href="/topics/javascript" class="no-underline flex-grow-0">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" class="rounded mr-3" width="64" height="64" alt="javascript">
-      </a>
+</a>
 
+![Snake animation](https://github.com/VladimirButakov/VladimirButakov/blob/output/github-contribution-grid-snake.svg)
 
