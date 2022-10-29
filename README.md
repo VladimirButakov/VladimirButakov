@@ -3,6 +3,12 @@
 - 📫 How to reach me vbutakov2020@gmail.com
 - 📄 My <a href="https://career.habr.com/vbutakov12" rel="nofollow">resume</a>
 
+<div align="center">
+  <a href="https://github.com/VladimirButakov">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VladimirButakov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirButakov&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 </br>
 <a href="/topics/php" class="no-underline flex-grow-0">
           <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded mr-3" width="64" height="64" alt="php">
