@@ -3,7 +3,7 @@
 - 📫 How to reach me vbutakov2020@gmail.com
 - 📄 My <a href="https://career.habr.com/vbutakov12" rel="nofollow">resume</a>
 
-<div align="center">
+<div>
   <a href="https://github.com/VladimirButakov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VladimirButakov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirButakov&layout=compact&langs_count=7&theme=dracula"/>
