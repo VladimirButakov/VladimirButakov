@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladimir
-- 🌱 I’m currently learning Go lang
+- 🌱 I’m senior Golang developer
 - 📫 How to reach me vbutakov2020@gmail.com
 - 📄 My <a href="https://career.habr.com/vbutakov12" rel="nofollow">resume</a>
 
