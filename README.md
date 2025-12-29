@@ -10,6 +10,9 @@
 </div>
 
 </br>
+<a href="/topics/go" class="no-underline flex-grow-0">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"  width="64" height="64" alt="go" style="max-width: 100%; background: white; border-radius: 30px 30px;">
+</a>
 <a href="/topics/php" class="no-underline flex-grow-0">
           <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded mr-3" width="64" height="64" alt="php">
       </a>
@@ -28,9 +31,6 @@
 <a href="/topics/graphql" class="no-underline flex-grow-0">
           <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" class="rounded mr-3" width="64" height="64" alt="graphql">
       </a>
-<a href="/topics/go" class="no-underline flex-grow-0">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"  width="64" height="64" alt="go" style="max-width: 100%; background: white; border-radius: 30px 30px;">
-</a>
 <a href="/topics/docker" class="no-underline flex-grow-0">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" class="rounded mr-3" width="64" height="64" alt="docker">
 </a>
